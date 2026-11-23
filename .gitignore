@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos gerados pelo .NET
+**/bin/
+**/obj/
+
+# Arquivos de compilação
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Configurações locais
+appsettings.Development.json
+
+# Arquivos temporários
+*.tmp
+*.log
